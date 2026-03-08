@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "koki",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "koki",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "CraftLegends.aternos.me",
+    "port": 38539,
     "version": "1.21.1"
   },
   "position": {
